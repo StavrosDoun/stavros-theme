@@ -167,9 +167,9 @@ links:
       href: http://host.domain/your_blog
       icon: fas fa-book-open
   - email:
-      name: doundoulakis.stavros@gmail.com
+      name: Email
       show: true
-      href:
+      href: mailto:doundoulakis.stavros@gmail.com
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
