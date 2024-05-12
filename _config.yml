@@ -181,6 +181,5 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-An aspiring Data Engineer / Analyst adept at transforming raw data into actionable business insights.
-
+   An aspiring Data Engineer / Analyst adept at transforming raw data into actionable business insights.
 #EOF
